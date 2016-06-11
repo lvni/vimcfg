@@ -1,0 +1,1 @@
+/home/users/zhangyuliang01/kafka/go/misc/vim/autoload/go/complete.vim
